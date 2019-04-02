@@ -1,2 +1,1 @@
-# 5B_OrderedList_inArraySlots_v1
-Using interfaces to implement an ordered list
+# represent a list of integers whose elements are kept in increasing order
